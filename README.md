@@ -11,7 +11,7 @@ This repository includes Stata codes, folder structure, and raw data files to re
 2) Unzip 'Project folders-files.zip'  
 The zip file contains the folder structure and raw data files needed for the analysis (except dataFRIENDS dataset which is not publicly available at this time). Folder tree is shown below.
 
-3) Open `0_Analysis Parent File.do`  
+3) Open `Stata Codes/0_Analysis Parent File.do`  
 The Analysis Parent File lists in sequence all the necessary codes for the analysis.  
 3.1) Customize the user file paths to reflect your username as well as the folder location (from step 2).  
 3.2) Run the do file.
