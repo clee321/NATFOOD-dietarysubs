@@ -17,7 +17,6 @@ The Analysis Parent File lists in sequence all the necessary codes for the analy
 3.2) Run the do file.
 
 4) Stata outputs will be generated and saved under the folders from step 2.  
-Each do file lists specific folder locations where outputs will be saved.
 
 *****
 
