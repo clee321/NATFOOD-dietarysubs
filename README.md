@@ -1,7 +1,7 @@
 ## Replication files for "Potential impacts of simple dietary substitutions on carbon footprints and dietary quality across diverse segments of the US population"
 
 ### Description
-This repository includes Stata codes, folder structure, and raw data files to reproduce the analysis of the manuscript "Potential impacts of simple dietary substitutions on carbon footprints and dietary quality across diverse segments of the US population".
+This repository includes Stata code, folder structure, and raw data files to reproduce the analysis of the manuscript "Potential impacts of simple dietary substitutions on carbon footprints and dietary quality across diverse segments of the US population".
 
 
 ### Instructions to reproduce the analysis:
@@ -12,7 +12,7 @@ This repository includes Stata codes, folder structure, and raw data files to re
 The zip file contains the folder structure and raw data files needed for the analysis (except dataFRIENDS dataset which is not publicly available at this time). Folder tree is shown below.
 
 3) Open `Stata codes/0_Analysis Parent File.do`  
-The Analysis Parent File lists in sequence all the necessary codes for the analysis.  
+The Analysis Parent File lists in sequence all the necessary code for the analysis.  
 3.1) Customize the user file paths to reflect your username as well as the folder location (from step 2).  
 3.2) Run the do file.
 
