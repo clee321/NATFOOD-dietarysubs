@@ -1,4 +1,4 @@
-## Replication files for "Potential impacts of simple dietary substitutions on carbon footprints and dietary quality across diverse segments of the US population"
+## Replication files for "Simple dietary substitutions can reduce carbon footprints and improve dietary quality across diverse segments of the US population"
 
 ### Description
 This repository includes Stata code, folder structure, and raw data files to reproduce the analysis of the manuscript "Potential impacts of simple dietary substitutions on carbon footprints and dietary quality across diverse segments of the US population".
